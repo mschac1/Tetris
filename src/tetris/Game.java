@@ -40,7 +40,7 @@ public class Game implements java.awt.event.ActionListener {
     int [][] pausedBlocks;
     boolean gameOver;
     
-    public final static String scoreFileName = "c:\\Menachem\\Java\\Tetris\\scores.dat";
+    public final static String scoreFileName = "res\\scores.dat";
     public final static int numScores = 5;
     
     /** Creates a new instance of Game */
